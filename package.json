@@ -1,0 +1,25 @@
+{
+  "name": "portfolio2",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmerSharif/Portfolio-2.git"
+  },
+  "keywords": [
+    "umer"
+  ],
+  "author": "Umer Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmerSharif/Portfolio-2/issues"
+  },
+  "homepage": "https://github.com/UmerSharif/Portfolio-2#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
